@@ -1,0 +1,154 @@
+id,name,country,running_time_min,year,actor,genre,seasons,episodes,rating
+1,Friends,United States,20 min,1994,Jennifer Aniston,Comedy,10,236,8.2
+2,The Office,United States,24 min,2005,Steve Carell,Comedy,9,188,8.0
+3,Parks and Recreation,United States,20 min,2009,Amy Poehler,Comedy,7,125,8.0
+4,Get a Life,United States,30 min,1990,Chris Elliott,Comedy,-1,-1,7.8
+5,Spaced,United Kingdom,27 min,1999,Jessica Hynes,Comedy,-1,-1,7.8
+6,Fawlty Towers,United Kingdom,30 min,1975,John Cleese,Comedy,2,12,7.8
+7,Yes Minister,United Kingdom,30 min,1980,Paul Eddington,Comedy,-1,-1,7.7
+8,The Big Bang Theory,United States,20 min,2007,Johnny Galecki,Comedy,12,280,7.7
+9,The Young Ones,United Kingdom,30 min,1982,Rik Mayall,Comedy,-1,-1,7.7
+10,The IT Crowd,United Kingdom,25 min,2006,Richard Ayoade,Comedy,5,25,7.6
+11,How I Met Your Mother,United States,20 min,2005,Josh Radnor,Comedy,9,208,7.6
+12,Black Books,United Kingdom,30 min,2000,Dylan Moran,Comedy,-1,-1,7.6
+13,The Black Adderaka,35 min.,1983,Blackadder,Rowan Atkinson,Comedy,4,25,7.6
+14,The Office,United Kingdom,30 min,2001,Ricky Gervais,Comedy,2,14,7.6
+15,Flight of the Conchords,United States,30 min,2007,Jemaine Clement,Comedy,-1,-1,7.5
+16,It's Always Sunny in Philadelphia,United States,30 min,2005,Danny DeVito,Comedy,15,162,7.5
+17,Plats bruts,Spain,25 min,1999,Joel Joan,Comedy,-1,-1,7.5
+18,Arrested Development,United States,20 min,2003,Jason Bateman,Comedy,5,76,7.5
+19,Trailer Park Boys,Canada,30 min,2001,John Paul Tremblay,Comedy,-1,-1,7.4
+20,Curb Your Enthusiasm,United States,30 min,2000,Larry David,Comedy,1,-1,7.4
+21,Modern Family,United States,22 min,2009,Ed O'Neill,Comedy,11,250,7.4
+22,Silicon Valley,United States,30 min,2014,Thomas Middleditch,Comedy,6,53,7.4
+23,Broad City,United States,21 min,2014,Abbi Jacobson,Comedy,5,-1,7.3
+24,Extras,United Kingdom,30 min,2005,Ricky Gervais,Comedy,2,13,7.3
+25,'Allo 'Allo!,United Kingdom,30 min,1982,Gorden Kaye,Comedy,-1,-1,7.3
+26,Red Dwarf,United Kingdom,30 min,1988,Craig Charles,Sci-Fi,-1,-1,7.3
+27,Scrubs,United States,30 min,2001,Zach Braff,Comedy,9,182,7.2
+28,The Inbetweeners,United Kingdom,25 min,2008,Simon Bird,Comedy,-1,-1,7.2
+29,Brooklyn Nine-Nine,United States,22 min,2013,Andy Samberg,Comedy,8,153,7.2
+30,7 vidas - Siete vidas,Spain,60 min,1999,Amparo Bar�,Comedy,9,204,7.1
+31,Seinfeld,United States,20 min,1989,Jerry Seinfeld,Comedy,9,180,7.1
+32,Veep,United States,30 min,2012,Julia Louis-Dreyfus,Comedy,7,59,7.0
+33,Mr. Bean,United Kingdom,25 min,1990,Rowan Atkinson,Comedy,-1,-1,7.0
+34,My Name Is Earl,United States,30 min,2005,Jason Lee,Comedy,4,96,7.0
+35,The Fresh Prince of Bel-Air,United States,24 min,1990,Will Smith,Comedy,6,148,7.0
+36,Bored to Death,United States,26 min,2009,Jason Schwartzman,Comedy,-1,-1,7.0
+37,Malcolm in the Middle,United States,20 min,2000,Frankie Muniz,Comedy,7,151,7.0
+38,WandaVision,United States,35 min,2021,Elizabeth Olsen,Comedy,-1,-1,7.0
+39,Raising Hope,United States,30 min,2010,Martha Plimpton,Comedy,-1,-1,7.0
+40,Frasier,United States,24 min,1993,Kelsey Grammer,Comedy,11,264,7.0
+41,Get Smart,United States,20 min,1965,Don Adams,Comedy,5,138,6.9
+42,30 Rock,United States,20 min,2006,Tina Fey,Comedy,7,138,6.9
+43,Cheers,United States,20 min,1982,Ted Danson,Comedy,11,-1,6.9
+44,Wilfred,United States,20 min,2011,Elijah Wood,Comedy,4,49,6.8
+45,Crashing,United Kingdom,30 min,2016,Phoebe Waller-Bridge,Comedy,-1,-1,6.8
+46,George and Mildred,United Kingdom,30 min,1976,Yootha Joyce,Comedy,5,38,6.8
+47,Bob's Burgers,United States,21 min,2011,Animation,Animation,-1,-1,6.8
+48,Mythic Quest: Raven's Banquet,United States,30 min,2020,Rob McElhenney,Comedy,3,30,6.7
+49,Friends: The Reunion,United States,102 min,2021,Documentary,Comedy,-1,-1,6.7
+50,You're the Worst,United States,30 min,2014,Chris Geere,Comedy,-1,-1,6.7
+51,The Munsters,United States,30 min,1964,Fred Gwynne,Comedy,2,70,6.7
+52,Soap,United States,25 min,1977,Richard Mulligan,Comedy,4,88,6.7
+53,Grace and Frankie,United States,30 min,2015,Jane Fonda,Comedy,7,94,6.6
+54,New Girl,United States,20 min,2011,Zooey Deschanel,Comedy,7,146,6.6
+55,That '70s Show,United States,20 min,1998,Topher Grace,Comedy,8,200,6.6
+56,Episodes,United States,29 min,2011,Matt LeBlanc,Comedy,5,41,6.5
+57,Blue Mountain State,United States,30 min,2010,Darin Brooks,Comedy,-1,-1,6.5
+58,Get Smart,United States,20 min,1995,Don Adams,Sequel,1, 7,6.4
+59,Superstore,United States,30 min,2015,America Ferrera,Comedy,6,113,6.4
+60,Unbreakable Kimmy Schmidt,United States,22 min,2015,Ellie Kemper,Comedy,4,51,6.4
+61,The Addams Family,United States,30 min,1964,John Astin,Horror,2,64,6.4
+62,Aqu� no hay quien viva,Spain,60 min,2003,Jos� Luis Gil,Comedy,5,90,6.4
+63,Becker,United States,30 min,1998,Ted Danson,Comedy,-1,-1,6.3
+64,Mad About You,United States,20 min,1992,Paul Reiser,Comedy,8,164,6.3
+65,Parker Lewis Can't Lose,United States,30 min,1990,Corin Nemec,Comedy,-1,-1,6.3
+66,Young Sheldon,United States,30 min,2017,Iain Armitage,Comedy,-1,-1,6.3
+67,Unhappily Ever After,United States,30 min,1995,Geoff Pierson,Comedy,5,100,6.3
+68,Don't Trust the B---- in Apartment 23aka,22 min.,2012,Apartment 23,Krysten Ritter,Comedy,-1,-1,6.2
+69,ALF,United States,30 min,1986,Max Wright,Comedy,4,103,6.2
+70,Married with Children,United States,20 min,1987,Ed O'Neill,Comedy,11,263,6.2
+71,The Golden Girls,United States,30 min,1985,Bea Arthur,Comedy,7,180,6.2
+72,A�da,Spain,45 min,2005,Carmen Machi,Comedy,10,237,6.2
+73,Night Court,United States,20 min,1984,Harry Anderson,Comedy,9,193,6.1
+74,Everybody Hates Chris,United States,20 min,2005,Tyler James Williams,Comedy,-1,-1,6.1
+75,Roseanne,United States,22 min,1988,Roseanne,Comedy,10,231,6.1
+76,Dinosaurs,United States,30 min,1991,Animation,Animation,-1,-1,6.1
+77,Just Shoot Me!,United States,20 min,1997,Laura San Giacomo,Comedy,7,148,6.1
+78,Two and a Half Men,United States,30 min,2003,Charlie Sheen,Comedy,12,262,6.1
+79,The Middle,United States,30 min,2009,Patricia Heaton,Comedy,-1,-1,6.1
+80,Rules of Engagement,United States,30 min,2007,Megyn Price,Comedy,-1,-1,6.0
+81,Murphy Brown,United States,30 min,1988,Candice Bergen,Comedy,10,247,6.0
+82,Museo Coconut,Spain,25 min,2010,Animation,Comedy,3,33,6.0
+83,Samantha Who?,United States,20 min,2007,Christina Applegate,Comedy,-1,-1,6.0
+84,Will & Grace,United States,20 min,1998,Debra Messing,Comedy,11,246,6.0
+85,The Cosby Show,United States,20 min,1984,Bill Cosby,Comedy,8,197,6.0
+86,Cougar Town,United States,30 min,2009,Courteney Cox,Comedy,-1,-1,5.9
+87,Bewitched,United States,30 min,1964,Elizabeth Montgomery,Fantasy,8,254,5.9
+88,Spin City,United States,30 min,1996,Michael J. Fox,Comedy,6,-1,5.9
+89,Family Ties,United States,30 min,1982,Meredith Baxter,Comedy,7,172,5.9
+90,Family Matters,United States,20 min,1989,Reginald Veljohnson,Comedy,9,215,5.8
+91,Growing Pains,United States,25 min,1985,Kirk Cameron,Comedy,7,166,5.8
+92,Mom,United States,20 min,2013,Anna Faris,Comedy,8,156,5.7
+94,Full House,United States,20 min,1987,John Stamos,Comedy,8,192,5.7
+95,Perfect Strangers,United States,30 min,1986,Bronson Pinchot,Comedy,8,150,5.6
+96,Boy Meets World,United States,24 min,1993,Ben Savage,Comedy,7,158,5.6
+97,Three's Company,United States,30 min,1977,John Ritter,Comedy,8,174,5.6
+99,Farmacia de guardia,Spain,30 min,1991,Concha Cuetos,Comedy,-1,-1,5.6
+100,3rd Rock from the Sun,United States,22 min,1996,John Lithgow,Comedy,6,-1,5.6
+101,The Goldbergs,United States,21 min,2013,Sean Giambrone,Comedy,10,222,5.5
+102,El Chavo del 8,Mexico,30 min,1972,Roberto G�mez Bola�os,Comedy,-1,-1,5.5
+103,The King of Queens,United States,30 min,1998,Kevin James,Comedy,-1,-1,5.4
+104,Everybody Loves Raymond,United States,20 min,1996,Ray Romano,Comedy,9,210,5.4
+105,Saved by the Bell,United States,30 min,1989,Mark-Paul Gosselaar,Comedy,4,86,5.4
+106,La que se avecina,Spain,60 min,2007,Jordi S�nchez,Comedy,-1,-1,5.4
+107,Punky Brewster,United States,30 min,1984,Soleil Moon Frye,Comedy,4,88,5.3
+108,Eight Is Enough,United States,60 min,1977,Dick Van Patten,Comedy,5,112,5.3
+109,Kenan & Kel,United States,30 min,1996,Kenan Thompson,Comedy,-1,-1,5.3
+110,Dharma & Greg,United States,30 min,1997,Jenna Elfman,Comedy,-1,-1,5.2
+111,Blossom,United States,30 min,1991,Mayim Bialik,Comedy,5,114,5.2
+112,Anger Management,United States,22 min,2012,Charlie Sheen,Comedy,-1,-1,5.1
+113,According to Jim,United States,30 min,2001,James Belushi,Comedy,-1,-1,5.1
+114,2 Broke Girls,United States,20 min,2011,Kat Dennings,Comedy,6,138,5.0
+115,Who's the Boss?,United States,30 min,1984,Tony Danza,Comedy,-1,-1,5.0
+117,The Nanny,United States,20 min,1993,Fran Drescher,Comedy,6,146,5.0
+118,Drake & Josh,United States,25 min,2004,Drake Bell,Comedy,4,57,4.9
+119,Joey,United States,30 min,2004,Matt LeBlanc,Comedy,2,46,4.9
+120,A Different World,United States,30 min,1987,Lisa Bonet,Comedy,6,145,4.8
+121,Veronica's Closet,United States,22 min,1997,Kirstie Alley,Comedy,3,66,4.8
+122,Los Qui�n,Spain,50 min,2011,Javier C�mara,Comedy,-1,13,4.8
+123,Weird Science,United States,25 min,1994,Vanessa Angel,Sci-Fi,-1,-1,4.8
+124,What I Like About You,United States,30 min,2002,Amanda Bynes,Comedy,-1,-1,4.8
+125,Hangin' with Mr. Cooper,United States,20 min,1992,Mark Curry,Comedy,-1,-1,4.8
+126,Diff'rent Strokes,United States,30 min,1978,Gary Coleman,Comedy,6,-1,4.7
+127,The Brady Bunch,United States,30 min,1969,Robert Reed,Comedy,5,117,4.7
+128,Home Improvement,United States,30 min,1991,Tim Allen,Comedy,8,-1,4.7
+129,Suddenly Susan,United States,30 min,1996,Brooke Shields,Comedy,4,93,4.6
+131,Fuller House,United States,30 min,2016,Candace Cameron Bure,Comedy,5,75,4.6
+132,Buen agente (BuenAgente),Spain,45 min,2011,Antonio Molero,Comedy,2,19,4.6
+133,Con el culo al aire,Spain,70 min,2012,Paco Tous,Comedy,3,42,4.6
+134,Malcolm & Eddie,United States,20 min,1996,Malcolm-Jamal Warner,Comedy,4,89,4.6
+135,M�dico de familia,Spain,55 min,1995,Emilio Arag�n,Comedy,-1,-1,4.4
+136,Sabrina, the Teenage Witch,United States,30 min,1996,Melissa Joan Hart,Comedy,7,163,4.4
+137,Webster,United States,30 min,1983,Emmanuel Lewis,Comedy,6,150,4.3
+138,Wizards of Waverly Place,United States,22 min,2007,Selena Gomez,Comedy,-1,-1,4.2
+139,iCarly,United States,30 min,2007,Miranda Cosgrove,Comedy,-1,-1,4.1
+140,California Dreams,United States,30 min,1992,Kelly Packard,Comedy,-1,-1,4.1
+141,Lizzie McGuire,United States,25 min,2001,Hilary Duff,Comedy,2,65,4.0
+142,Sonny with a Chance,United States,30 min,2009,Demi Lovato,Comedy,-1,-1,3.9
+144,Two of a Kind,United States,30 min,1998,Christopher Sieber,Comedy,1,-1,3.8
+146,That's So Raven,United States,30 min,2003,Raven-Symon�,Comedy,-1,-1,3.6
+147,The Suite Life of Zack and Cody - TSL,United States,25 min,2005,Cole Sprouse,Comedy,-1,-1,3.6
+148,Sister, Sister,United States,30 min,1994,Tia Mowry-Hardrict,Comedy,-1,-1,3.6
+149,Honey, I Shrunk the Kids: The TV Show,United States,60 min,1997,Peter Scolari,Comedy,-1,-1,3.5
+150,Zoey 101,United States,30 min,2005,Jamie Lynn Spears,Comedy,-1,-1,3.4
+152,The Suite Life on Deck,United States,30 min,2008,Dylan Sprouse,Comedy,-1,-1,3.3
+153,Hermanos de leche,Spain,45 min,1994,Jos� Coronado,Comedy,-1,-1,3.3
+154,Hannah Montana,United States,30 min,2006,Miley Cyrus,Comedy,4,98,3.3
+155,Las chicas de oro,Spain,50 min,2010,Alicia Hermida,Comedy,-1,26,2.8
+156,Matrimonio con hijos,Spain,45 min,2006,Gin�s Garc�a Mill�n,Comedy,-1,40,2.7
+157,Cory in the House,United States,25 min,2007,Kyle Orlando Massey,Comedy,-1,-1,2.5
+158,�Ala... Dina! (Aladina),Spain,30 min,2000,Paz Padilla,Comedy,-1,-1,2.2
+159,Jonas / Jonas L.A.,United States,25 min,2009,Joe Jonas,Comedy,-1,-1,2.1
+160,Gym Tony (Gym Tony LC),Spain,40 min,2014,Ivan Massagu�,Comedy,+1,+60,1.7
